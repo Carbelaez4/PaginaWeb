@@ -1,5 +1,5 @@
 # Esto es un titulo H1
-## Esto es un titulo 2
+## Esto es un titulo H2
 ### Esto es un titulo H3
 
 Esto es un texto descriptivo * texto en negrita*
